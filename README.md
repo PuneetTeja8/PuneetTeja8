@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Puneet Teja</h1>
 <h3 align="center">A self-taught passionate Frontend developer from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcodex%2Fhow-to-be-a-front-end-developer-in-2023-ca0f673d5996&psig=AOvVaw0aH6_x28zGY08nj9AYEH7F&ust=1717585530339000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC3lPHmwYYDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetteja8&label=Profile%20views&color=0e75b6&style=flat" alt="puneetteja8" /> </p>
 
 - 📫 How to reach me **chinchettypuneet@gmail.com**
