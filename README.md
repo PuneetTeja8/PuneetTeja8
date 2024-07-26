@@ -4,8 +4,6 @@
 <h3 align="center">A self-taught passionate Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetteja8&label=Profile%20views&color=0e75b6&style=flat" alt="puneetteja8" /> </p>
 
-- 📫 How to reach me **chinchettypuneet@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/puneet_teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneet_teja" height="30" width="40" /></a>
